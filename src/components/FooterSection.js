@@ -36,7 +36,7 @@ function FooterSection() {
         <div className='flex flex-col gap-[26px]'>
           <div className='flex flex-col gap-[7px]'>
             {/* <img src='../../img/logo_paywise_footer.png' alt='' /> */}
-            <h2 className='text-white font-montserrat text-[40px] font-bold leading-[120%]'>
+            <h2 className='text-white font-montserrat text-[30px] font-bold leading-[120%] md:text-[40px]'>
               Paywise
             </h2>
             <p className='text-white font-inter text-sm lg:text-base lg:w-[302px] lg:font-medium leading-[120%]'>
