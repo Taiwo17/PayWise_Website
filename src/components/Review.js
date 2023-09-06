@@ -54,8 +54,8 @@ function Review() {
           </div>
         </div>
       </div>
-      <div className='hidden lg:flex bg-white opacity-70 w-full h-[217px] -mt-[150px]'></div>
-      <div className='flex justify-center items-center mb-[100px]'>
+      <div className='hidden lg:flex bg-white opacity-70 w-full h-[217px]  -mt-[150px] lg:mb-0'></div>
+      <div className='flex justify-center items-center mb-[100px] mt-[100px] lg:mt-0'>
         <Link
           className='bg-blueish px-[52px] py-4 rounded-[12px] inline-block font-inter text-white text-base font-bold'
           href='/'

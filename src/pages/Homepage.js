@@ -35,8 +35,10 @@ function Homepage() {
         <div className='absolute inset-0 bg-[#131313] opacity-[.65] z-10'></div>
         <PaywiseParrallex />
       </div>
-      <footer>
-        <FooterSection />
+      <footer className='bg-blueish'>
+        <div className='px-8 md:px-12 lg:px-[84px]'>
+          <FooterSection />
+        </div>
       </footer>
     </>
   )
